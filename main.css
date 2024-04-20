@@ -13,10 +13,6 @@ H5{
 h3{
 	color: red;
 }
-.p{
-		margin: 0;
-		padding: 0;
-}
 .card {
 	 position: relative;
 	 width: 300px;
@@ -46,10 +42,11 @@ background-position: center; /* Center the image */
 }
  .card p {
 	 font-size: 1.1em;
-	 line-height: 1.4;
+	 line-height: 1.2;
 	 font-family: 'Nobile';
 	 color: #edfa3b;
 	 font-style: italic;
+	 font-style: bold;
 	 text-align: center;
 	 margin: 30px auto 0px auto;
 }
